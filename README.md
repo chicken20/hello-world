@@ -1,2 +1,2 @@
 # hello-world
-Week 1
+ I was told to make this branch in case a bug occurs 
